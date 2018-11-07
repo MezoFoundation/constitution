@@ -11,27 +11,22 @@ Aside from the founding standing holons, new standing holons can only be formed 
 
 A standing holon can be removed given at least 90% Mezono consensus within said standing holon and at least an 90% consensus amongst all Mezonos.
 
-Anyone can create and join a special holon at any time.
-
-Special holons cease to exist when no citizens reside in them.
-
 A citizen in a special holon is considered to be (1/(number of standing holons the special holon is comprised of)) of a citizen within each holon the special holon is comprised of.
 
 Labor can not be forced in or between holons.
 
-Trade of services is allowed within holons.
+Trade of services is allowed.
 
 Trade of goods is not allowed within holons.
 
-Trade is not allowed between holons.
+Trade of goods is not allowed between holons.
 
-Trade is not allowed between holons and another institution.
+Trade is of goods not allowed between a holon and another institution.
 
 ### Mezonos
 Criteria | Information
 ------------ | -------------
 Name | Mezono
-Value | 1 Munit
 Symbol | Ƶ
 Abbreviation | MZO
 
@@ -82,14 +77,14 @@ All knowledge, digital files, and nonphysical/intangible objects go to the knowl
 Mezo does not allow for intellectual property.
 
 ### Resource Pool
-The resource pool is distributed and decentralized, everything in it has an ID and a value proportional to the input costs of a Munit.
+The resource pool is distributed and decentralized, everything in it has an ID and a mezono value based on the input costs of that item.
 
-When an entity finishes the production of a good and gives it to the resource pool, and another entity exchanges Mezonos for that good, those Mezonos will be given to the entity who created that good. The value of the good is the sum of the value of the resources that went into the production of the good.
+When an entity finishes the production of a good and gives it to the resource pool, and another entity exchanges Mezonos for that good, those Mezonos will be given to the entity who created that good. The value of the good is the sum of the value of the resources that went into the production of the good divided by the number of that good produced by those resources.
 
-All standing holons must receive resources from the resource pool.
+All standing holons must receive resources only from the resource pool.
 
 ### Meta Mezo
-If multiple Mezo systems allocate resources with the approximately the same proportions for an extended amount of time and those Mezo systems have more than 80% Mezono consensus to merge, those Mezo systems will merge into one Mezo system. (How is this similarity mathematically measured)
+If multiple Mezo systems allocate resources with the approximately the same proportions for an extended amount of time and those Mezo systems have more than 80% Mezono consensus within each respective Mezo system to merge, those Mezo systems will merge into one Mezo system. (How is this similarity mathematically measured)
 
 Mezo Systems must communicate with one another to send and receive proportion data as well as a collective list of citizens within their individual systems.
 
@@ -120,14 +115,12 @@ Verdicts will be reached given at least 75% agreement of Mezonos from the judges
 ### Military Holon
 Enforces verdict as determined  by Judicial Holon. <This means that the Military Holon does not enforce the Mezo Constitution nor does it enforce MEZOL. It may only enforce Judicial Holon verdicts. This prevents preemptive military action.>
 
-If 75% or more of non Military Holon Mezonos agree to allow interaction with a foreign institution, the military will be allowed to interact. Otherwise it will not be able to interact.
-
 If 75% or more of non Military Holon Mezonos agree to end foreign interaction or that the Military Holon is violating the Mezo constitution/MEZOL, Military Holon Mezonos will be frozen until a later proposal.
 
 If 75% or more of non Military Holon tokens agree to unfreeze Military Holon Mezonos, Military Holon Mezonos will be unfrozen.
 
 ### Defining Munit
-As a holon produces a good to the extent to which it can be implemented to at least 80% of the population it will be added to the definition of a Munit upon 80% or more Mezono agreement.
+As a holon produces a good to the extent to which it can be distributed to at least all of the population without inhibiting the ability to distribute all other goods in a munit from being distributed to 100% of the population, it will be added to the definition of a Munit upon 80% or more Mezono agreement.
 
 Upon at least 80% Mezono agreement a good will be removed from the definition of a Munit.
 
