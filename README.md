@@ -137,7 +137,7 @@ If multiple Mezo systems allocate resources with the approximately the same prop
 
 This collection of Mezo Systems is Meta Mezo.
 
-Once a person becomes a citizen of a particular Mezo system, that citizen can not move to a different Mezo system.
+Once a person becomes a citizen of a particular Mezo system, that citizen can not move to a different Mezo system. [This rule will be changed]
 
 [HOW TO SOLVE FOR DIFFERENCES IN LAW, AND DIFFERENCES IN FEAUTURES TOGGLED]
 
