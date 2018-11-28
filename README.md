@@ -1,5 +1,5 @@
 # Mezo Constitution
-[FIGURE OUT WHICH FEATURES SHOULD BE TOGGLEABLE]
+
 ### sectors:
 A sector is a grouping of similar function within a Mezo system.
 
@@ -178,7 +178,7 @@ A Judicial sector verdict may only be put into effect on a case in which a party
 
 Judicial sector verdicts are based on the Mezo Constitution and MEZOL.
 
-A guilty verdict will result in the guilty citizen’s mezonos being frozen. [PARTIAL FROZEN?]
+A guilty verdict will result in the guilty citizen’s mezonos being partially or fully frozen.
 
 A guilty verdict can be repealed after sufficient unfunded contribution to society. Whether the actions are sufficient enough to warrant repealing of a guilty verdict will be determined by the judicial sector.
 
@@ -197,7 +197,7 @@ If 75% or more of non Military sector mezonos agree to unfreeze Military sector 
 ### Education sector
 All citizens are by default in the Education sector.
 
-In order for a citizen to move to a sector they must be certified by the education special-sector with that sector.
+In order for a citizen to move to a sector they must be certified by the education special-sector with that sector. [This is toggleable]
 
 The requirement for certification to enter a sector can be enabled or disabled. The default setting is enabled.
 
@@ -234,3 +234,5 @@ Transportation | Airplanes, Marine transport, Road & Rail, Distributors, Transpo
 Munit sector | Responsible for the production of goods in a Munit, where it is not being produced enough by other sectors. This sector can be toggled on or off.
 
 While Mezo creates an open knowledge society, the Mezo system and constitution is not copyright-free. This is because altering and running non connected Mezo clones would factionalize Society and could lead to wars and inhumane treatment that fall outside the aims and goals Mezo tries to achieve.
+
+[FIGURE OUT WHICH FEATURES SHOULD BE TOGGLEABLE]
