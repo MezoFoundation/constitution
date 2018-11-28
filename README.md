@@ -123,7 +123,7 @@ This Knowledge Pool operates on IPFS. For more information visit ipfs.io
 Mezo does not allow for intellectual property.
 
 ### Resource Pool
-The resource pool is distributed and decentralized, everything in it has an ID and a mezono value equal to the (sum of the input costs of all of that specific item from that specific entity)/(Number of that specific item produced by those specfic input costs from that specific entity. [People may set their own prices as long as they do not exceed the price of the input costs, however there is no mechanism enforcing this. Peopple may have an incentive to lie, but consumers will purchase theitme the lowest price thus creating competition and driving prices down their truthful prices. In any case a person cannot price something for more tokens than they have ever spent.]
+The resource pool is distributed and decentralized, everything in it has an ID and a mezono value equal to the (sum of the input costs of all of that specific item from that specific entity)/(Number of that specific item produced by those specfic input costs from that specific entity. [People may set their own prices as long as they do not exceed the price of the input costs, however there is no mechanism enforcing this. People may have an incentive to lie, but consumers will purchase theitme the lowest price thus creating competition and driving prices down their truthful prices. In any case a person cannot price something for more tokens than they have ever spent.]
 
 When an entity finishes the production of a good and gives it to the resource pool, and another entity exchanges Mezonos for that good, those Mezonos will be given to the entity who created that good. The value of the good is the sum of the value of the resources that went into the production of the good divided by the number of that good produced by those resources.
 
@@ -137,7 +137,7 @@ If multiple Mezo systems allocate resources with the approximately the same prop
 
 This collection of Mezo Systems is Meta Mezo.
 
-Once a person becomes of a citizen of a particular Mezo system, that citizen can not move to a different Mezo system.
+Once a person becomes a citizen of a particular Mezo system, that citizen can not move to a different Mezo system.
 
 [HOW TO SOLVE FOR DIFFERENCES IN LAW, AND DIFFERENCES IN FEAUTURES TOGGLED]
 
