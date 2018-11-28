@@ -99,13 +99,14 @@ An organization can have any internal rules as determined by the citizens who co
 
 When an organization produces a good and exchanges it for tokens, the tokens are redistributed to citizens equal to the (percent of their tokens they give to the organization)/(# of members).
 
-A citizen can leave an organization at any time.
-[WHAT IF I LEAVE AN ORGANIZATION BEFORE GETTING TOKENS BACK? Perhaps forced liquidation?]
+A citizen can leave an organization at any time. However, when choosing to withdraw their tokens and 
+[WHAT IF I LEAVE AN ORGANIZATION BEFORE GETTING TOKENS BACK? Perhaps forced liquidation? or perhaps I can leave the organization in terms of my work but I will not be reimbursed the tokens until the organization produces something.]
 
 The members of an organization are legally responsible for (% of their tokens they gave to the organization at the time of the action)/(number of members at the time of the action) of the actions of the organization.
 
 ### Voting
 Citizen Voting is where every citizen has one vote.
+
 Mezono Consensus is where every citizen has a number of votes equal to the number of tokens allocated to them that are not frozen.
 
 A citizen may give any amount of their voting power to any citizen or organization (regardless if they are a member of the organization). A citizen may take back their voting power at any time.
@@ -122,16 +123,13 @@ This Knowledge Pool operates on IPFS. For more information visit ipfs.io
 Mezo does not allow for intellectual property.
 
 ### Resource Pool
-The resource pool is distributed and decentralized, everything in it has an ID and a mezono value equal to the (sum of the input costs of all of that specific item from that specific entity)/(Number of that specific item produced by those specfic input costs from that specific entity.
+The resource pool is distributed and decentralized, everything in it has an ID and a mezono value equal to the (sum of the input costs of all of that specific item from that specific entity)/(Number of that specific item produced by those specfic input costs from that specific entity. [People may set their own prices as long as they do not exceed the price of the input costs, however there is no mechanism enforcing this. Peopple may have an incentive to lie, but consumers will purchase theitme the lowest price thus creating competition and driving prices down their truthful prices. In any case a person cannot price something for more tokens than they have ever spent.]
 
 When an entity finishes the production of a good and gives it to the resource pool, and another entity exchanges Mezonos for that good, those Mezonos will be given to the entity who created that good. The value of the good is the sum of the value of the resources that went into the production of the good divided by the number of that good produced by those resources.
-
-All standing holons must receive resources only from the resource pool.
 
 [Things that expire/go bad, or lose value if not consumed, should somehow be removed from the resource pool and recalculate the prices of all other of that specific product from those specific input costs] [People remove things of their own volition if they feel it has gone bad, this will raise the price of all the other of that same good because of the now lower quantity. This kind of behavior of self regulation is incentivized as the act of not doing so results in a artifically lower price and products that have gone bad and cannot be shipped]
 
 ### Land
-
 [LAND IS AN EXCEPTION, IT IS STILL A PART OF THE RESOURCE POOL BUT PEOPLE INTERACT WITH IT IN A DIFFERENT WAY]
 
 ### Meta Mezo
