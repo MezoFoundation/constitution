@@ -5,11 +5,11 @@ A holon is a grouping of similar function within a Mezo system.
 
 Citizens may go to any holon they choose, and movement between holons is allowed at any time.
 
-[Insert Venn Diagram]
+![Two Holons](https://github.com/mezounion/constitution/blob/master/twocircles.png)
 
 There are two types of holon. A standing holon is a holon that is permanent and is the basis the creation and defines special holon. A special holon is a holon that combines aspects from multiple standing holons.
 
-[Insert Venn Diagram showing special holon as the interesect of 2 holons A and B]
+![A Special Holon is the Intersection of Two Holons](https://github.com/mezounion/constitution/blob/master/intersect.jpeg)
 
 Aside from the founding standing holons, new standing holons can only be formed with 90% Mezono consensus.
 
