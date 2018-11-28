@@ -139,11 +139,13 @@ An entity may remove the listing of a resource in the resource pool.
 ### Land
 When land is added to the resource pool entities bid for it, with the largest bid exchanging their bid amount for the land. Bidding is open for a term of [blank].
 
-This process of bidding sets the price for the land
+This process of bidding sets the price for the land.
 
 If an entity bids more mezonos than what the entity who possesed the land before had paid for it, the entity who possesed the land before cannot receive more mezonos than what they had paid for the land.
 
-[Or maybe when I am finished with a plot of land it is re-put on the land registry as a new item and gets rebidded on, I only get my mezonos back for the land when someone else purchases the land, if they do so for less than what I initially payed I dont get all my mezonos back. People would bid less if the land was less attractive so if i bid a lot when i got it was attractive, then i exploited it and decreased its value therefore it is only fair i pay the environmental costs of my actions and the land's value goes down.
+An entity may bid less than what the entity who possesed the land before had paid for it.
+
+[People would bid less if the land was less attractive so if i bid a lot when i got it was attractive, then i exploited it and decreased its value therefore it is only fair i pay the environmental costs of my actions and the land's value goes down.
 All products made from the land plot before it was sold to someone else, are priced with the input cost of the land at that time. All products from the land plot after it was sold, are priced with the input of the cost of the land with the new price.
 However if someone pays more mezonos than what I initially payed for the land (this could be because I cultivated the land), I do not get back any more mezonos than what I initially payed for the land. However the new land is priced with what the new person payed for it. This allows for no profits to be kept while having realistic pricing. Those mezonos which exceed my initial input costs are just discarded.]
 
