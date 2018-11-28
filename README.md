@@ -5,11 +5,9 @@ A sector is a grouping of similar function within a Mezo system.
 
 Citizens may go to any sector they choose, and movement between sectors is allowed at any time.
 
-![Two sectors](https://github.com/mezounion/constitution/blob/master/twocircles.png)
-
 There are two types of sector. A standing-sector is a sector that is permanent and is the basis the creation and defines special-sector. A special-sector is a sector that combines aspects from multiple standing-sectors.
 
-![A special-sector is the Intersection of Two sectors](https://github.com/mezounion/constitution/blob/master/intersect.jpeg)
+![A special-sector is the Intersection of two standing-sectors](https://github.com/mezounion/constitution/blob/master/sectors.png)
 
 Aside from the founding standing-sectors, new standing-sectors can only be formed with 90% Mezono consensus.
 
