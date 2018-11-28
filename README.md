@@ -138,7 +138,7 @@ When land is added to the resource pool it is entities bid for it, with the larg
 
 This process of bidding sets the price for the land
 
-If an entity bids more mezonos than what the entity who possesed the land before had paid for it, the remaining mezonos will be destroyed.
+If an entity bids more mezonos than what the entity who possesed the land before had paid for it, the entity who possesed the land before cannot receive more mezonos than what they had paid for the land.
 
 [Or maybe when I am finished with a plot of land it is re-put on the land registry as a new item and gets rebidded on, I only get my tokens back for the land when someone else purchases the land, if they do so for less than what I initially payed I dont get all my tokens back. People would bid less if the land was less attractive so if i bid a lot when i got it was attractive, then i exploited it and decreased its value therefore it is only fair i pay the environmental costs of my actions and the land's value goes down.
 All products made from the land plot before it was sold to someone else, are priced with the input cost of the land at that time. All products from the land plot after it was sold, are priced with the input of the cost of the land with the new price.
