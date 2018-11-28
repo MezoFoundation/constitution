@@ -52,6 +52,8 @@ The more citizens a standing-sector has the less Mezonos the sector will receive
 
 The less citizens a standing-sector has the more Mezonos the sector will receive.
 
+![Inversly Proportional Allocation](https://github.com/mezounion/constitution/blob/master/allocation.png)
+
 A standing-sector’s Mezonos are divided equally amongst all full citizens of a standing-sector. Partial citizens who are in a special-sector receive
 
 ((the amount a full citizen within a standing-sector connected to the special-sector receives)/(number of standing-sectors the special-sector is comprised of))
