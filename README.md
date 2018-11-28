@@ -134,7 +134,15 @@ When an entity finishes the production of a good and gives it to the resource po
 [Things that expire/go bad, or lose value if not consumed, should somehow be removed from the resource pool and recalculate the prices of all other of that specific product from those specific input costs] [People remove things of their own volition if they feel it has gone bad, this will raise the price of all the other of that same good because of the now lower quantity. This kind of behavior of self regulation is incentivized as the act of not doing so results in a artifically lower price and products that have gone bad and cannot be shipped]
 
 ### Land
-[LAND IS AN EXCEPTION, IT IS STILL A PART OF THE RESOURCE POOL BUT PEOPLE INTERACT WITH IT IN A DIFFERENT WAY]
+When land is added to the resource pool it is entities bid for it, with the largest bid exchanging their bid amount for the land. Bidding is open for a term of [blank].
+
+This process of bidding sets the price for the land
+
+If an entity bids more mezonos than what the entity who possesed the land before had paid for it, the remaining mezonos will be destroyed.
+
+[Or maybe when I am finished with a plot of land it is re-put on the land registry as a new item and gets rebidded on, I only get my tokens back for the land when someone else purchases the land, if they do so for less than what I initially payed I dont get all my tokens back. People would bid less if the land was less attractive so if i bid a lot when i got it was attractive, then i exploited it and decreased its value therefore it is only fair i pay the environmental costs of my actions and the land's value goes down.
+All products made from the land plot before it was sold to someone else, are priced with the input cost of the land at that time. All products from the land plot after it was sold, are priced with the input of the cost of the land with the new price.
+However if someone pays more tokens than what I initially payed for the land (this could be because I cultivated the land), I do not get back any more tokens than what I initially payed for the land. However the new land is priced with what the new person payed for it. This allows for no profits to be kept while having realistic pricing. Those tokens which exceed my initial input costs are just discarded.]
 
 ### Meta Mezo
 If multiple Mezo systems allocate resources with the approximately the same proportions for an extended amount of time and those Mezo systems have more than 80% Mezono consensus within each respective Mezo system to merge, those Mezo systems will merge into one Mezo system. (How is this similarity mathematically measured)
