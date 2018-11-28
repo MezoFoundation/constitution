@@ -40,7 +40,7 @@ Mezonos can not be transferred between citizens/organizations.
 
 Citizens/Organizations can not own private property.
 
-When a citizen moves sectors the Mezonos associated with that sector do not move with the citizen. The Mezonos are then redistributed among the citizens of the sector.
+When a citizen moves sectors the Mezonos allocated to that citizen based on the sector they were in do not move with the citizen to their new holon.
 
 When a citizen moves sectors the resources associated with that sector do not move with the citizen, resources are then returned to the resource pool.
 
