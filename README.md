@@ -127,7 +127,7 @@ This Knowledge Pool operates on IPFS. For more information visit ipfs.io
 Mezo does not allow for intellectual property.
 
 ### Resource Pool
-The resource pool is distributed and decentralized, everything in it has an ID and a mezono value equal to the (sum of the input costs of all of that specific item from that specific entity)/(Number of that specific item produced by those specfic input costs from that specific entity. [People may set their own prices ideally at the price of the input costs for that resource, however there is no mechanism enforcing this. People may have an incentive to lie, but consumers will purchase the item for the lowest price thus creating competition and driving prices down their truthful prices. In any case a person cannot price something for more mezonos than they have ever spent.]
+The resource pool is distributed and decentralized, everything in it has an ID and a mezono value equal to the (sum of the input costs of all of that specific item from that specific entity)/(Number of that specific item produced by those specfic input costs from that specific entity. [People may set their own prices ideally at the price of the input costs for that resource, however there is no mechanism enforcing this. People may have an incentive to lie, but consumers will purchase the item for the lowest price thus creating competition and driving prices down their truthful prices. In any case a person cannot price something for more mezonos than they have ever spent. Target-Return Pricing = (sum of input costs) - ((proportion of value lost (Cannot be less than 0) x sum of input costs) / expected unit sales. Ideally producers wouldn't have to worry about this sort of price guessing and market analysis. However this kind of model makes producers compete not for profits but to find the real price of something (in other words, tell the truth).]
 
 An entity may not price resources in such a way that the sum of all the resources they have listed in the resource pool exceeds the amount mezonos that entity has spent.
 
@@ -166,15 +166,13 @@ If 75% Mezono concensus is reached in regard to allowing trade of an asset with 
 ### MEZOL
 Mezo practices polycentric law. Citizens may follow the law of the nation they reside in as long as they follow the laws of Mezo as well. In all cases the Mezo Constitution and MEZOL supersede all other systems of law.
 
-Laws cannot be added or removed to MEZOL if they contradict the Mezo Constitution. If the rules in the Mezo Constitution and MEZOL give conflicting results, the rule listed in the Mezo Constitution prevails.
+Laws cannot be added or removed to MEZOL if they contradict the Mezo Constitution. If the rules in the Mezo Constitution and MEZOL give conflicting results, the rules listed in the Mezo Constitution prevails.
 
 [HOW TO ADD AND REMOVE LAWS]
 [Replace word Polycentric, with more common words]
 
 ### Judicial sector
 Any citizen or entity can present a case to the Judicial sector.
-
-A Judicial sector verdict may only be put into effect on a case in which a party is explicitly physically or financially involved by the actions of another party. The only exception to this rule, is that a member of the Military sector may present a case to the Judicial sector and allow for a Judicial sector verdict to be put into effect on a case, whether or not the military sector member is explicitly, physically, or, financially involved by the actions of another party.
 
 Judicial sector verdicts are based on the Mezo Constitution and MEZOL.
 
