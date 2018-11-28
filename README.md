@@ -21,6 +21,8 @@ Labor can not be forced in or between holons.
 
 Trade of services is allowed.
 
+Trade of voting power for goods or services is not allowed.
+
 Trade of goods is not allowed within holons.
 
 Trade of goods is not allowed between holons.
@@ -105,14 +107,16 @@ A citizen can leave an organization at any time. However, when choosing to withd
 The members of an organization are legally responsible for (% of their tokens they gave to the organization at the time of the action)/(number of members at the time of the action) of the actions of the organization.
 
 ### Voting
-Citizen Voting is where every citizen has one vote.
+With citizen voting by default every citizen has one vote, however a citizen can give a portion or all of their voting power to another citizen resulting in a citizen having more than 1 citizen votes.
 
 Mezono Consensus is where every citizen has a number of votes equal to the number of tokens allocated to them that are not frozen.
 
-A citizen may give any amount of their voting power to any citizen or organization (regardless if they are a member of the organization). A citizen may take back their voting power at any time.
+A citizen may give any amount of their voting power to any citizen or organization (regardless if they are a member of the organization). They can give their voting power unconditionally, for a specific amount of time, for a specific proposal, concerning certain topics, or any combination of these conditions. A citizen may take back their voting power at any time.
 
 [How long does voting on things stay open?]
 [People may change their vote as long as the voting is open?]
+[Organizations can vote with the citizen and mezono voting power they are given]
+[Allow citizens to unvote?]
 [Allow giving of your voting power on specific proposals, or on specific genres of things such as foreign trade]
 
 ### Knowledge Pool
