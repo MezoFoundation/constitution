@@ -5,11 +5,15 @@ A holon is a grouping of similar function within a Mezo system.
 
 Citizens may go to any holon they choose, and movement between holons is allowed at any time.
 
-There are two types of holon. A standing holon is a holon that is permanent and the basis the creation and definition of a special holon. A special holon is a holon that combines aspects from multiple standing holons.
+[Insert Venn Diagram]
+
+There are two types of holon. A standing holon is a holon that is permanent and is the basis the creation and defines special holon. A special holon is a holon that combines aspects from multiple standing holons.
+
+[Insert Venn Diagram showing special holon as the interesect of 2 holons A and B]
 
 Aside from the founding standing holons, new standing holons can only be formed with 90% Mezono consensus.
 
-A standing holon can be removed given at least 90% Mezono consensus within said standing holon and at least an 90% consensus among all Mezonos.
+A standing holon can be removed given at least 90% Mezono consensus within said standing holon and at least a 90% consensus among all Mezonos.
 
 A citizen in a special holon is considered to be (1/(number of standing holons the special holon is comprised of)) of a citizen within each holon the special holon is comprised of.
 
@@ -129,6 +133,7 @@ All standing holons must receive resources only from the resource pool.
 [Things that expire/go bad, or lose value if not consumed, should somehow be removed from the resource pool and recalculate the prices of all other of that specific product from those specific input costs] [People remove things of their own volition if they feel it has gone bad, this will raise the price of all the other of that same good because of the now lower quantity. This kind of behavior of self regulation is incentivized as the act of not doing so results in a artifically lower price and products that have gone bad and cannot be shipped]
 
 ### Land
+
 [LAND IS AN EXCEPTION, IT IS STILL A PART OF THE RESOURCE POOL BUT PEOPLE INTERACT WITH IT IN A DIFFERENT WAY]
 
 ### Meta Mezo
