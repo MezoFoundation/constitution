@@ -131,10 +131,12 @@ The resource pool is distributed and decentralized, everything in it has an ID a
 
 When an entity finishes the production of a good and gives it to the resource pool, and another entity exchanges Mezonos for that good, those Mezonos will be given to the entity who created that good. The value of the good is the sum of the value of the resources that went into the production of the good divided by the number of that good produced by those resources.
 
-[Things that expire/go bad, or lose value if not consumed, should somehow be removed from the resource pool and recalculate the prices of all other of that specific product from those specific input costs] [People remove things of their own volition if they feel it has gone bad, this will raise the price of all the other of that same good because of the now lower quantity. This kind of behavior of self regulation is incentivized as the act of not doing so results in a artifically lower price and products that have gone bad and cannot be shipped]
+An entity may remove the listing of a resource in the resource pool.
+
+[People remove things of their own volition if they feel it has gone bad (for example if an apple has gone bad then it will be removed from the resource pool), this will raise the price of all the other of that same good because of the now lower quantity. This kind of behavior of self regulation is incentivized as the act of not doing so results in a artifically lower price and products that have gone bad and cannot be shipped]
 
 ### Land
-When land is added to the resource pool it is entities bid for it, with the largest bid exchanging their bid amount for the land. Bidding is open for a term of [blank].
+When land is added to the resource pool entities bid for it, with the largest bid exchanging their bid amount for the land. Bidding is open for a term of [blank].
 
 This process of bidding sets the price for the land
 
