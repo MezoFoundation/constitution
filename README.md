@@ -58,8 +58,6 @@ A standing-sector’s Mezonos are divided equally amongst all full citizens of a
 
 from each standing-sector their special-sector is comprised of.
 
-The minimum number of Mezonos in a Mezo system must be equal to the number of citizens within that Mezo system.
-
 The minimium number of Mezonos that can be given to a citizen is equal to the amount of Mezonos needed to buy a munit.
 
 ### Mezono Accounting
