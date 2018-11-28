@@ -128,6 +128,7 @@ The resource pool is distributed and decentralized, everything in it has an ID a
 An entity may not price resources in such a way that the sum of all the resources they have listed in the resource pool exceeds the amount mezonos that entity has spent.
 
 When an entity finishes the production of a good and gives it to the resource pool, and another entity exchanges Mezonos for that good, those Mezonos will be given to the entity who created that good. The value of the good is the sum of the value of the resources that went into the production of the good divided by the number of that good produced by those resources.
+
 ![Exchange in Resource Pool](https://github.com/mezounion/constitution/blob/master/exchange.png)
 
 
