@@ -62,9 +62,9 @@ from each standing holon their special holon is comprised of.
 
 The minimum number of Mezonos in a Mezo system must be equal to the number of citizens within that Mezo system.
 
-The minimium number of tokens that can be given to a citizen is equal to the amount of tokens needed to buy a munit.
+The minimium number of Mezonos that can be given to a citizen is equal to the amount of Mezonos needed to buy a munit.
 
-### Token Accounting
+### Mezono Accounting
 Every citizen has a “allocation”, a “balance”, and an “amount spent”.
 
 The allocation of a citizen is the amount of Mezonos a Mezo system allocates to a person on the assumption that they have not spent any Mezonos.
@@ -75,16 +75,16 @@ The balance of a citizen is the current amount of Mezonos a citizen has. It is e
 
 Mezono balance can never be below zero. This means a citizen may not move to a different holon if the new holon would allocate less than the amount the citizen has spent.
 
-Frozen tokens does not mean that the number of tokens a citizen is allocated is fixed but rather that they can not do anything with those tokens.
+Frozen Mezonos does not mean that the number of Mezonos a citizen is allocated is fixed but rather that they can not do anything with those Mezonos.
 
-[PERSONAL TOKEN ALLOCATION = TO AMOUNT OF TOKENS NEEDED TO BUY A MUNIT, this is the amount a citizen is allowed to spend on personal affairs. A person may not spend more than the personal token allocation amount on personal affairs. HOW TO DETERMINE PERSONAL ALLOCATION AMOUNT. IDEALLY IS MAXIMUM AS POSSIBLE WITHOUT LOWERING SYSTEMS ABILITY TO PROVIDE EVERYONE THAT PERSONAL ALLOCATION AMOUNT]
+[PERSONAL MEZONO ALLOCATION = TO AMOUNT OF MEZONO NEEDED TO BUY A MUNIT, this is the amount a citizen is allowed to spend on personal affairs. A person may not spend more than the personal mezono allocation amount on personal affairs. HOW TO DETERMINE PERSONAL ALLOCATION AMOUNT. IDEALLY IS MAXIMUM AS POSSIBLE WITHOUT LOWERING SYSTEMS ABILITY TO PROVIDE EVERYONE THAT PERSONAL ALLOCATION AMOUNT]
 
 ### Organizations
 Anyone can create an organization at any time.
 
 A citizen can be a part of multiple organizations at the same time.
 
-Organizations are comprised of citizens who give the right to an amount of their tokens to an organization. However, giving the right to these tokens does not mean that the organization can use that citizen's token's voting power. The citizen gives the right to spend an amount of their tokens to the organization but may retain the voting power associated with those tokens.
+Organizations are comprised of citizens who give the right to an amount of their mezonos to an organization. However, giving the right to these mezonos does not mean that the organization can use that citizen's mezono's voting power. The citizen gives the right to spend an amount of their mezonos to the organization but may retain the voting power associated with those mezonos.
 
 Organizations can interact with the resource pool.
 
@@ -99,17 +99,17 @@ A citizen can give any amount of their voting power within an organization to an
 An organization can have any internal rules as determined by the citizens who comprise them. (This includes consensus rules, what percent consensus is necessary for decisions, whether the organization is open or closed for other people to join, etc.)
 [This may also comprise of a measure of education and tests of ability required to join]
 
-When an organization produces a good and exchanges it for tokens, the tokens are redistributed to citizens equal to the (percent of their tokens they give to the organization)/(# of members).
+When an organization produces a good and exchanges it for mezonos, the mezonos are redistributed to citizens equal to the (percent of their mezonos they give to the organization)/(# of members).
 
-A citizen can leave an organization at any time. However, when choosing to withdraw their tokens and 
-[WHAT IF I LEAVE AN ORGANIZATION BEFORE GETTING TOKENS BACK? Perhaps forced liquidation? or perhaps I can leave the organization in terms of my work but I will not be reimbursed the tokens until the organization produces something.]
+A citizen can leave an organization at any time. However, when choosing to withdraw their Mezonos and 
+[WHAT IF I LEAVE AN ORGANIZATION BEFORE GETTING Mezonos BACK? Perhaps forced liquidation? or perhaps I can leave the organization in terms of my work but I will not be reimbursed the Mezonos until the organization produces something.]
 
-The members of an organization are legally responsible for (% of their tokens they gave to the organization at the time of the action)/(number of members at the time of the action) of the actions of the organization.
+The members of an organization are legally responsible for (% of their Mezonos they gave to the organization at the time of the action)/(number of members at the time of the action) of the actions of the organization.
 
 ### Voting
 With citizen voting by default every citizen has one vote, however a citizen can give a portion or all of their voting power to another citizen resulting in a citizen having more than 1 citizen votes.
 
-Mezono Consensus is where every citizen has a number of votes equal to the number of tokens allocated to them that are not frozen.
+Mezono Consensus is where every citizen has a number of votes equal to the number of Mezonos allocated to them that are not frozen.
 
 A citizen may give any amount of their voting power to any citizen or organization (regardless if they are a member of the organization). They can give their voting power unconditionally, for a specific amount of time, for a specific proposal, concerning certain topics, or any combination of these conditions. A citizen may take back their voting power at any time.
 
@@ -127,7 +127,9 @@ This Knowledge Pool operates on IPFS. For more information visit ipfs.io
 Mezo does not allow for intellectual property.
 
 ### Resource Pool
-The resource pool is distributed and decentralized, everything in it has an ID and a mezono value equal to the (sum of the input costs of all of that specific item from that specific entity)/(Number of that specific item produced by those specfic input costs from that specific entity. [People may set their own prices as long as they do not exceed the price of the input costs, however there is no mechanism enforcing this. People may have an incentive to lie, but consumers will purchase theitme the lowest price thus creating competition and driving prices down their truthful prices. In any case a person cannot price something for more tokens than they have ever spent.]
+The resource pool is distributed and decentralized, everything in it has an ID and a mezono value equal to the (sum of the input costs of all of that specific item from that specific entity)/(Number of that specific item produced by those specfic input costs from that specific entity. [People may set their own prices ideally at the price of the input costs for that resource, however there is no mechanism enforcing this. People may have an incentive to lie, but consumers will purchase the item for the lowest price thus creating competition and driving prices down their truthful prices. In any case a person cannot price something for more mezonos than they have ever spent.]
+
+An entity may not price resources in such a way that the sum of all the resources they have listed in the resource pool exceeds the amount mezonos that entity has spent.
 
 When an entity finishes the production of a good and gives it to the resource pool, and another entity exchanges Mezonos for that good, those Mezonos will be given to the entity who created that good. The value of the good is the sum of the value of the resources that went into the production of the good divided by the number of that good produced by those resources.
 
@@ -142,9 +144,9 @@ This process of bidding sets the price for the land
 
 If an entity bids more mezonos than what the entity who possesed the land before had paid for it, the entity who possesed the land before cannot receive more mezonos than what they had paid for the land.
 
-[Or maybe when I am finished with a plot of land it is re-put on the land registry as a new item and gets rebidded on, I only get my tokens back for the land when someone else purchases the land, if they do so for less than what I initially payed I dont get all my tokens back. People would bid less if the land was less attractive so if i bid a lot when i got it was attractive, then i exploited it and decreased its value therefore it is only fair i pay the environmental costs of my actions and the land's value goes down.
+[Or maybe when I am finished with a plot of land it is re-put on the land registry as a new item and gets rebidded on, I only get my mezonos back for the land when someone else purchases the land, if they do so for less than what I initially payed I dont get all my mezonos back. People would bid less if the land was less attractive so if i bid a lot when i got it was attractive, then i exploited it and decreased its value therefore it is only fair i pay the environmental costs of my actions and the land's value goes down.
 All products made from the land plot before it was sold to someone else, are priced with the input cost of the land at that time. All products from the land plot after it was sold, are priced with the input of the cost of the land with the new price.
-However if someone pays more tokens than what I initially payed for the land (this could be because I cultivated the land), I do not get back any more tokens than what I initially payed for the land. However the new land is priced with what the new person payed for it. This allows for no profits to be kept while having realistic pricing. Those tokens which exceed my initial input costs are just discarded.]
+However if someone pays more mezonos than what I initially payed for the land (this could be because I cultivated the land), I do not get back any more mezonos than what I initially payed for the land. However the new land is priced with what the new person payed for it. This allows for no profits to be kept while having realistic pricing. Those mezonos which exceed my initial input costs are just discarded.]
 
 ### Meta Mezo
 If multiple Mezo systems allocate resources with the approximately the same proportions for an extended amount of time and those Mezo systems have more than 80% Mezono consensus within each respective Mezo system to merge, those Mezo systems will merge into one Mezo system. (How is this similarity mathematically measured)
@@ -176,21 +178,21 @@ A Judicial Holon verdict may only be put into effect on a case in which a party 
 
 Judicial Holon verdicts are based on the Mezo Constitution and MEZOL.
 
-A guilty verdict will result in the guilty citizen’s tokens being frozen. [PARTIAL FROZEN?]
+A guilty verdict will result in the guilty citizen’s mezonos being frozen. [PARTIAL FROZEN?]
 
 A guilty verdict can be repealed after sufficient unfunded contribution to society. Whether the actions are sufficient enough to warrant repealing of a guilty verdict will be determined by the judicial holon.
 
 Verdicts will be reached given at least majority Mezono consensus from the judges involved in the case.
 
 [CHANGE TO REFLECT HOW JUDGES WORK IN MEZOL]
-[Should Judicial Holon be a holon or something else which doesnt use tokens, like a council?]
+[Should Judicial Holon be a holon or something else which doesnt use mezonos, like a council?]
 
 ### Military Holon
 Enforces verdict as determined  by Judicial Holon. (This means that the Military Holon does not enforce the Mezo Constitution nor does it enforce MEZOL. It may only enforce Judicial Holon verdicts. This prevents preemptive military action.)
 
 If 75% or more of non Military Holon Mezonos agree to end foreign interaction or that the Military Holon is violating the Mezo constitution/MEZOL, Military Holon Mezonos will be frozen until a later proposal.
 
-If 75% or more of non Military Holon tokens agree to unfreeze Military Holon Mezonos, Military Holon Mezonos will be unfrozen.
+If 75% or more of non Military Holon mezonos agree to unfreeze Military Holon Mezonos, Military Holon Mezonos will be unfrozen.
 
 ### Education Holon
 All citizens are by default in the Education Holon.
@@ -199,7 +201,7 @@ In order for a citizen to move to a holon they must be certified by the educatio
 
 The requirement for certification to enter a holon can be enabled or disabled. The default setting is enabled.
 
-A citizen's tokens are frozen and are unfrozen at a rate of [ENTER RATE] until they either pass certification (this feature can be enabled or disabled) or when that citizen reaches age 25 (this feature can be enabled or disabled). This age can be changed and will be the average of all the ages voted by all the citizens. (Outliers will be removed from average calculation). The rate of unfreezing can be changed. This feature of token freezing can be enabled or disabled, by default it is enabled.
+A citizen's mezonos are frozen and are unfrozen at a rate of [ENTER RATE] until they either pass certification (this feature can be enabled or disabled) or when that citizen reaches age 25 (this feature can be enabled or disabled). This age can be changed and will be the average of all the ages voted by all the citizens. (Outliers will be removed from average calculation). The rate of unfreezing can be changed. This feature of mezono freezing can be enabled or disabled, by default it is enabled.
 [Who decides what certification means, and what the standards are and how to test it]
 
 ### Defining Munit
