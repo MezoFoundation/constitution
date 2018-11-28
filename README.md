@@ -48,7 +48,7 @@ Mezonos represent shares in voting.
 
 Mezonos are distributed to standing-sectors only.
 
-The amount a standing holon receives is equal to (sum of citizens in all other sectors)/(# of citizens in this sector)x(minimum mezono amount)
+The amount a standing holon receives is equal to (# of citizens in mezo)/(# of citizens in this sector)x(minimum mezono amount)
 
 ![Inversly Proportional Allocation](https://github.com/mezounion/constitution/blob/master/allocation.png)
 
