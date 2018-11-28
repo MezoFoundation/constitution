@@ -92,7 +92,7 @@ Inside of an organization a citizen has organizational voting power equal to the
 
 Organizations can only be formed between members of the same standing/special holon.
 
-A citizen can give their any amount of their voting power within an organization to anyone else within that organization. A citizen may take back their voting power at any time.
+A citizen can give any amount of their voting power within an organization to anyone else within that organization. A citizen may take back their voting power at any time.
 
 An organization can have any internal rules as determined by the citizens who comprise them. (This includes consensus rules, what percent consensus is necessary for decisions, whether the organization is open or closed for other people to join, etc.)
 [This may also comprise of a measure of education and tests of ability required to join]
