@@ -46,8 +46,6 @@ When a citizen moves holons the resources associated with that holon do not move
 
 Mezonos represent shares in voting.
 
-One Mezono can be exchanged for one Munit.
-
 Mezonos are distributed to standing holons only.
   
 The more citizens a standing holon has the less Mezonos the holon will receive.
