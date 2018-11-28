@@ -93,6 +93,7 @@ Organizations can only be formed between members of the same standing/special ho
 A citizen can give their any amount of their voting power within an organization to anyone else within that organization. A citizen may take back their voting power at any time.
 
 An organization can have any internal rules as determined by the citizens who comprise them. (This includes consensus rules, what percent consensus is necessary for decisions, whether the organization is open or closed for other people to join, etc.)
+[This may also comprise of a measure of education and tests of ability required to join]
 
 When an organization produces a good and exchanges it for tokens, the tokens are redistributed to citizens equal to the (percent of their tokens they give to the organization)/(# of members).
 
@@ -114,6 +115,8 @@ A citizen may give any amount of their voting power to any citizen or organizati
 ### Knowledge Pool
 All knowledge, digital files, and nonphysical/intangible objects go to the knowledge pool which are available to everyone regardless of which Mezo system they are a part of.
 
+This Knowledge Pool operates on IPFS. For more information visit ipfs.io
+
 Mezo does not allow for intellectual property.
 
 ### Resource Pool
@@ -123,7 +126,7 @@ When an entity finishes the production of a good and gives it to the resource po
 
 All standing holons must receive resources only from the resource pool.
 
-[Things that expire/go bad, or lose value if not consumed, should somehow be removed from the resource pool and recalculate the prices of all other of that specific product from those specific input costs]
+[Things that expire/go bad, or lose value if not consumed, should somehow be removed from the resource pool and recalculate the prices of all other of that specific product from those specific input costs] [People remove things of their own volition if they feel it has gone bad, this will raise the price of all the other of that same good because of the now lower quantity. This kind of behavior of self regulation is incentivized as the act of not doing so results in a artifically lower price and products that have gone bad and cannot be shipped]
 
 ### Land
 [LAND IS AN EXCEPTION, IT IS STILL A PART OF THE RESOURCE POOL BUT PEOPLE INTERACT WITH IT IN A DIFFERENT WAY]
@@ -185,7 +188,7 @@ A citizen's tokens are frozen and are unfrozen at a rate of [ENTER RATE] until t
 [Who decides what certification means, and what the standards are and how to test it]
 
 ### Defining Munit
-As a holon produces a good to the extent to which it can be distributed to at least all of the population without inhibiting the ability to distribute all other goods in a munit to 100% of the population, it will be added to the definition of a Munit upon 80% or more Mezono consensus. This consensus percentage can be changed.
+As a holon produces a good to the extent to which it can be distributed to at least 100% of the population without inhibiting the ability to distribute all other goods in a munit to 100% of the population, it will be added to the definition of a Munit upon 80% or more Mezono consensus. This consensus percentage can be changed.
 
 Upon at least 80% Mezono consensus a good will be removed from the definition of a Munit. This consensus percentage can be changed.
 
