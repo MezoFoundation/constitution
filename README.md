@@ -1,33 +1,33 @@
 # Mezo Constitution
 [FIGURE OUT WHICH FEATURES SHOULD BE TOGGLEABLE]
-### Holons:
-A holon is a grouping of similar function within a Mezo system.
+### sectors:
+A sector is a grouping of similar function within a Mezo system.
 
-Citizens may go to any holon they choose, and movement between holons is allowed at any time.
+Citizens may go to any sector they choose, and movement between sectors is allowed at any time.
 
-![Two Holons](https://github.com/mezounion/constitution/blob/master/twocircles.png)
+![Two sectors](https://github.com/mezounion/constitution/blob/master/twocircles.png)
 
-There are two types of holon. A standing holon is a holon that is permanent and is the basis the creation and defines special holon. A special holon is a holon that combines aspects from multiple standing holons.
+There are two types of sector. A standing-sector is a sector that is permanent and is the basis the creation and defines special-sector. A special-sector is a sector that combines aspects from multiple standing-sectors.
 
-![A Special Holon is the Intersection of Two Holons](https://github.com/mezounion/constitution/blob/master/intersect.jpeg)
+![A special-sector is the Intersection of Two sectors](https://github.com/mezounion/constitution/blob/master/intersect.jpeg)
 
-Aside from the founding standing holons, new standing holons can only be formed with 90% Mezono consensus.
+Aside from the founding standing-sectors, new standing-sectors can only be formed with 90% Mezono consensus.
 
-A standing holon can be removed given at least 90% Mezono consensus within said standing holon and at least a 90% consensus among all Mezonos.
+A standing-sector can be removed given at least 90% Mezono consensus within said standing-sector and at least a 90% consensus among all Mezonos.
 
-A citizen in a special holon is considered to be (1/(number of standing holons the special holon is comprised of)) of a citizen within each holon the special holon is comprised of.
+A citizen in a special-sector is considered to be (1/(number of standing-sectors the special-sector is comprised of)) of a citizen within each sector the special-sector is comprised of.
 
-Labor can not be forced in or between holons.
+Labor can not be forced in or between sectors.
 
 Trade of services is allowed.
 
 Trade of voting power for goods or services is not allowed.
 
-Trade of goods is not allowed within holons.
+Trade of goods is not allowed within sectors.
 
-Trade of goods is not allowed between holons.
+Trade of goods is not allowed between sectors.
 
-Trade of goods is not allowed between a holon and another institution.
+Trade of goods is not allowed between a sector and another institution.
 
 ### Mezonos
 Criteria | Information
@@ -42,23 +42,23 @@ Mezonos can not be transferred between citizens/organizations.
 
 Citizens/Organizations can not own private property.
 
-When a citizen moves holons the Mezonos associated with that holon do not move with the citizen. The Mezonos are then redistributed among the citizens of the holon.
-  
-When a citizen moves holons the resources associated with that holon do not move with the citizen, resources are then returned to the resource pool.
+When a citizen moves sectors the Mezonos associated with that sector do not move with the citizen. The Mezonos are then redistributed among the citizens of the sector.
+
+When a citizen moves sectors the resources associated with that sector do not move with the citizen, resources are then returned to the resource pool.
 
 Mezonos represent shares in voting.
 
-Mezonos are distributed to standing holons only.
-  
-The more citizens a standing holon has the less Mezonos the holon will receive.
+Mezonos are distributed to standing-sectors only.
 
-The less citizens a standing holon has the more Mezonos the holon will receive.
+The more citizens a standing-sector has the less Mezonos the sector will receive.
 
-A standing holon’s Mezonos are divided equally amongst all full citizens of a standing holon. Partial citizens who are in a special holon receive 
+The less citizens a standing-sector has the more Mezonos the sector will receive.
 
-((the amount a full citizen within a standing holon connected to the special holon receives)/(number of standing holons the special holon is comprised of))
+A standing-sector’s Mezonos are divided equally amongst all full citizens of a standing-sector. Partial citizens who are in a special-sector receive
 
-from each standing holon their special holon is comprised of.
+((the amount a full citizen within a standing-sector connected to the special-sector receives)/(number of standing-sectors the special-sector is comprised of))
+
+from each standing-sector their special-sector is comprised of.
 
 The minimum number of Mezonos in a Mezo system must be equal to the number of citizens within that Mezo system.
 
@@ -73,7 +73,7 @@ The amount spent of a citizen is the number of Mezonos they have spent.
 
 The balance of a citizen is the current amount of Mezonos a citizen has. It is equal to the allocation amount minus the amount spent.
 
-Mezono balance can never be below zero. This means a citizen may not move to a different holon if the new holon would allocate less than the amount the citizen has spent.
+Mezono balance can never be below zero. This means a citizen may not move to a different sector if the new sector would allocate less than the amount the citizen has spent.
 
 Frozen Mezonos does not mean that the number of Mezonos a citizen is allocated is fixed but rather that they can not do anything with those Mezonos.
 
@@ -90,9 +90,9 @@ Organizations can interact with the resource pool.
 
 There is a difference between voting power and organizational voting power.
 
-Inside of an organization a citizen has organizational voting power equal to the (% of their tokens they give to the organization)/(number of members).
+Inside of an organization a citizen has organizational voting power equal to the (% of their mezonos they give to the organization)/(number of members).
 
-Organizations can only be formed between members of the same standing/special holon.
+Organizations can only be formed between members of the same standing/special-sector.
 
 A citizen can give any amount of their voting power within an organization to anyone else within that organization. A citizen may take back their voting power at any time.
 
@@ -101,7 +101,7 @@ An organization can have any internal rules as determined by the citizens who co
 
 When an organization produces a good and exchanges it for mezonos, the mezonos are redistributed to citizens equal to the (percent of their mezonos they give to the organization)/(# of members).
 
-A citizen can leave an organization at any time. However, when choosing to withdraw their Mezonos and 
+A citizen can leave an organization at any time. However, when choosing to withdraw their Mezonos and
 [WHAT IF I LEAVE AN ORGANIZATION BEFORE GETTING Mezonos BACK? Perhaps forced liquidation? or perhaps I can leave the organization in terms of my work but I will not be reimbursed the Mezonos until the organization produces something.]
 
 The members of an organization are legally responsible for (% of their Mezonos they gave to the organization at the time of the action)/(number of members at the time of the action) of the actions of the organization.
@@ -170,42 +170,42 @@ Laws cannot be added or removed to MEZOL if they contradict the Mezo Constitutio
 
 [HOW TO ADD AND REMOVE LAWS]
 [Replace word Polycentric, with more common words]
- 
-### Judicial Holon
-Any citizen or entity can present a case to the Judicial Holon.
 
-A Judicial Holon verdict may only be put into effect on a case in which a party is explicitly physically or financially involved by the actions of another party. The only exception to this rule, is that a member of the Military Holon may present a case to the Judicial Holon and allow for a Judicial Holon verdict to be put into effect on a case, whether or not the military holon member is explicitly, physically, or, financially involved by the actions of another party.
+### Judicial sector
+Any citizen or entity can present a case to the Judicial sector.
 
-Judicial Holon verdicts are based on the Mezo Constitution and MEZOL.
+A Judicial sector verdict may only be put into effect on a case in which a party is explicitly physically or financially involved by the actions of another party. The only exception to this rule, is that a member of the Military sector may present a case to the Judicial sector and allow for a Judicial sector verdict to be put into effect on a case, whether or not the military sector member is explicitly, physically, or, financially involved by the actions of another party.
+
+Judicial sector verdicts are based on the Mezo Constitution and MEZOL.
 
 A guilty verdict will result in the guilty citizen’s mezonos being frozen. [PARTIAL FROZEN?]
 
-A guilty verdict can be repealed after sufficient unfunded contribution to society. Whether the actions are sufficient enough to warrant repealing of a guilty verdict will be determined by the judicial holon.
+A guilty verdict can be repealed after sufficient unfunded contribution to society. Whether the actions are sufficient enough to warrant repealing of a guilty verdict will be determined by the judicial sector.
 
 Verdicts will be reached given at least majority Mezono consensus from the judges involved in the case.
 
 [CHANGE TO REFLECT HOW JUDGES WORK IN MEZOL]
-[Should Judicial Holon be a holon or something else which doesnt use mezonos, like a council?]
+[Should Judicial sector be a sector or something else which doesnt use mezonos, like a council?]
 
-### Military Holon
-Enforces verdict as determined  by Judicial Holon. (This means that the Military Holon does not enforce the Mezo Constitution nor does it enforce MEZOL. It may only enforce Judicial Holon verdicts. This prevents preemptive military action.)
+### Military sector
+Enforces verdict as determined  by Judicial sector. (This means that the Military sector does not enforce the Mezo Constitution nor does it enforce MEZOL. It may only enforce Judicial sector verdicts. This prevents preemptive military action.)
 
-If 75% or more of non Military Holon Mezonos agree to end foreign interaction or that the Military Holon is violating the Mezo constitution/MEZOL, Military Holon Mezonos will be frozen until a later proposal.
+If 75% or more of non Military sector Mezonos agree to end foreign interaction or that the Military sector is violating the Mezo constitution/MEZOL, Military sector Mezonos will be frozen until a later proposal.
 
-If 75% or more of non Military Holon mezonos agree to unfreeze Military Holon Mezonos, Military Holon Mezonos will be unfrozen.
+If 75% or more of non Military sector mezonos agree to unfreeze Military sector Mezonos, Military sector Mezonos will be unfrozen.
 
-### Education Holon
-All citizens are by default in the Education Holon.
+### Education sector
+All citizens are by default in the Education sector.
 
-In order for a citizen to move to a holon they must be certified by the education special holon with that holon.
+In order for a citizen to move to a sector they must be certified by the education special-sector with that sector.
 
-The requirement for certification to enter a holon can be enabled or disabled. The default setting is enabled.
+The requirement for certification to enter a sector can be enabled or disabled. The default setting is enabled.
 
 A citizen's mezonos are frozen and are unfrozen at a rate of [ENTER RATE] until they either pass certification (this feature can be enabled or disabled) or when that citizen reaches age 25 (this feature can be enabled or disabled). This age can be changed and will be the average of all the ages voted by all the citizens. (Outliers will be removed from average calculation). The rate of unfreezing can be changed. This feature of mezono freezing can be enabled or disabled, by default it is enabled.
 [Who decides what certification means, and what the standards are and how to test it]
 
 ### Defining Munit
-As a holon produces a good to the extent to which it can be distributed to at least 100% of the population without inhibiting the ability to distribute all other goods in a munit to 100% of the population, it will be added to the definition of a Munit upon 80% or more Mezono consensus. This consensus percentage can be changed.
+As a sector produces a good to the extent to which it can be distributed to at least 100% of the population without inhibiting the ability to distribute all other goods in a munit to 100% of the population, it will be added to the definition of a Munit upon 80% or more Mezono consensus. This consensus percentage can be changed.
 
 Upon at least 80% Mezono consensus a good will be removed from the definition of a Munit. This consensus percentage can be changed.
 
@@ -216,21 +216,21 @@ The amount of citizen consensus needed to enable, disable, or change a rule that
 https://docs.google.com/document/d/1No3kQf-O4x9b4OfiE0ZbeYfRIw_iiS8CSmgQvVNJFjw/edit?usp=sharing
 [CHANGE THIS]
 
-Standing Holons | Description
+standing-sectors | Description
 ------------ | -------------
-Art | 
+Art |
 Construction | The architects and builders.
 Communication | Also responsible for maintaining Swarm/ETH. All units should include a node (not everyone needs to be a miner?)
 Energy | Electricity and Electrical Infrastructure
 Judicial | Already Outlined
 Military | Already Outlined
 Education | Already Outlined
-Reserve | For automating the reserve pool. Holon's top priority is to disappear. Should add provision for automatic dissolution.
-Food | 
+Reserve | For automating the reserve pool. sector's top priority is to disappear. Should add provision for automatic dissolution.
+Food |
 Materials | Basic Materials
 Health | People's physical and mental well being
 Industrials | aerospace and defense, industrial machinery, tools, lumber production, construction, waste management, manufactured housing, cement and metal fabrication. Machinery.
 Transportation | Airplanes, Marine transport, Road & Rail, Distributors, Transportation Infrastructure
-Munit Holon | Responsible for the production of goods in a Munit, where it is not being produced enough by other holons. This holon can be toggled on or off.
+Munit sector | Responsible for the production of goods in a Munit, where it is not being produced enough by other sectors. This sector can be toggled on or off.
 
 While Mezo creates an open knowledge society, the Mezo system and constitution is not copyright-free. This is because altering and running non connected Mezo clones would factionalize Society and could lead to wars and inhumane treatment that fall outside the aims and goals Mezo tries to achieve.
